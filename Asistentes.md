@@ -5,3 +5,4 @@
 # Alumnos
 
 * Juan Pablo Bordes juan.bordes@bvision.com
+* Alejandro Amendola alejandro.amendola@bvision.com
