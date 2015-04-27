@@ -3,9 +3,11 @@
 * Juan Facundo Donato genuinefafa@gmail.com
 
 # Alumnos
-* Juan Pablo Bordes juan.bordes@bvision.com
-* Francisco Fontana francisco.fontana@mercadolibre.com
-
-
-
-
+* Amendola, Alejandro alejandro.amendola@bvision.com
+* Bordes, Juan Pablo juan.bordes@bvision.com
+* Fontana, Francisco francisco.fontana@mercadolibre.com
+* Guzmán, Andrea andrea.guzman@bvision.com
+* Matellan, Maximiliano Ivan maximiliano.matellan@mercadolibre.com
+* Olivero, Walter walter.olivero@gmail.com
+* Somoza, Emiliano Pablo emiliano.somoza@mercadolibre.com
+* Tolay, Sabrina Ayelen ayelen.tolay@bvision.com
