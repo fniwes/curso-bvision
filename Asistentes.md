@@ -5,3 +5,4 @@
 # Alumnos
 
 * Juan Pablo Bordes juan.bordes@bvision.com
+* Walter Olivero walter.olivero@gmail.coms
