@@ -5,3 +5,4 @@
 # Alumnos
 
 * Juan Pablo Bordes juan.bordes@bvision.com
+* Andrea Guzmán andrea.guzman@bvision.com
