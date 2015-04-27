@@ -3,5 +3,6 @@
 * Juan Facundo Donato genuinefafa@gmail.com
 
 # Alumnos
-
+* Emiliano Pablo Somoza emiliano.somoza@mercadolibre.com
 * Juan Pablo Bordes juan.bordes@bvision.com
+
