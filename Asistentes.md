@@ -5,3 +5,4 @@
 # Alumnos
 
 * Juan Pablo Bordes juan.bordes@bvision.com
+* Guillermo Campoy guillermo.campoy@mercadolibre.com
