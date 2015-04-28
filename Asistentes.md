@@ -5,3 +5,4 @@
 # Alumnos
 
 * Juan Pablo Bordes juan.bordes@bvision.com
+* Carlos Laffitte norberto.laffitte@gmail.com
