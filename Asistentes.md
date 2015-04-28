@@ -13,3 +13,4 @@
 * Tolay, Sabrina Ayelen ayelen.tolay@bvision.com
 * Juan Pablo Bordes juan.bordes@bvision.com
 * Serritella, Matias matias.serritella@bvision.com
+* Laffitte, Carlos norberto.laffitte@bvision.com
