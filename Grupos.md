@@ -21,7 +21,7 @@
 
 ## Grupo 4
 # Integrantes
-* Andrea Guzman
+* Andrea Guzmán
 * Francisco Fontana
 * Ayelén Tolay
 
