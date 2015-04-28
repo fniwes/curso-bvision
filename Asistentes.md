@@ -12,3 +12,4 @@
 * Somoza, Emiliano Pablo emiliano.somoza@mercadolibre.com
 * Tolay, Sabrina Ayelen ayelen.tolay@bvision.com
 * Serritella, Matias matias.serritella@bvision.com
+* Laffitte, Carlos norberto.laffitte@gmail.com
