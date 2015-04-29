@@ -14,3 +14,4 @@
 * Juan Pablo Bordes juan.bordes@bvision.com
 * Serritella, Matias matias.serritella@bvision.com
 * Laffitte, Carlos norberto.laffitte@bvision.com
+* Campoy, Guillermo guillermo.campoy@mercadolibre.com
