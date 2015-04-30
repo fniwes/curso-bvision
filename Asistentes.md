@@ -16,3 +16,4 @@
 * Serritella, Matias matias.serritella@bvision.com
 * Laffitte, Carlos norberto.laffitte@bvision.com
 * Campoy, Guillermo guillermo.campoy@mercadolibre.com
+* Tolay, Sabrina Ayelen ayelen.tolay@bvision.com
