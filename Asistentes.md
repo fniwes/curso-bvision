@@ -3,6 +3,7 @@
 * Juan Facundo Donato genuinefafa@gmail.com
 
 # Alumnos
+
 * Amendola, Alejandro alejandro.amendola@bvision.com
 * Bordes, Juan Pablo juan.bordes@bvision.com
 * Fontana, Francisco francisco.fontana@mercadolibre.com
@@ -14,3 +15,4 @@
 * Juan Pablo Bordes juan.bordes@bvision.com
 * Serritella, Matias matias.serritella@bvision.com
 * Laffitte, Carlos norberto.laffitte@bvision.com
+* Campoy, Guillermo guillermo.campoy@mercadolibre.com
